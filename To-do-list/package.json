@@ -1,6 +1,7 @@
 {
-  "name": "to-do-list",
+  "name": "first-activity",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,5 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
 }
